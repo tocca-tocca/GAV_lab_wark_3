@@ -1,0 +1,8 @@
+Model Information:
+* title:	Paramount Mountain 2012
+* source:	https://sketchfab.com/3d-models/paramount-mountain-2012-cb8ca3d455624d34812e8b605441dc4a
+* author:	Victor Hugo Ochoa 2 The Simple Logo Remaker (https://sketchfab.com/silvermonkeymama)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
